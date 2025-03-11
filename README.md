@@ -4,7 +4,7 @@ I'm a software developer primarily focused on **backend programming**. I love wo
 
 ## 🔧 Tech Stack
 - **Languages:** ![Static Badge](https://img.shields.io/badge/Python-0380fc?logo=python&logoColor=white)
-- **Frameworks:** ![Static Badge](https://img.shields.io/badge/Flet-e83c76?logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/Flask-5800ff?logo=flask&logoColor=white) ![Static Badge](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white) 
+- **Frameworks:** ![Static Badge](https://img.shields.io/badge/Flet-e83c76?logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![Static Badge](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white) 
 - **Editors:** ![Static Badge](https://img.shields.io/badge/PyCharm-1fc900?logo=pycharm&logoColor=white) ![Static Badge](https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio&logoColor=white)
 
 ## 🚀 Featured Project
