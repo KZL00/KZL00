@@ -1,6 +1,6 @@
 # Hi, I'm Kacper 👋
 
-I'm a software developer primarily focused on **backend programming**. I love working with **Python** and developing apps with frameworks like **Flet** and **Flask**, but I hate writing frontend.
+I'm a software developer from Poland primarily focused on **backend programming**. I love working with **Python** and developing apps with frameworks like **Flet** and **Flask**, but I hate writing frontend.
 
 ## 🔧 Tech Stack
 - **Languages:** ![Static Badge](https://img.shields.io/badge/Python-0380fc?logo=python&logoColor=white)
