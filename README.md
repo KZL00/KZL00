@@ -14,4 +14,4 @@ I'm a software developer from Poland primarily focused on **backend programming*
 - **Discord:** kzl21
 
 ## 📊 GitHub Stats & More  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacper-jar&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="kzl00's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacper-jar&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="kacper-jar's GitHub Stats" />
